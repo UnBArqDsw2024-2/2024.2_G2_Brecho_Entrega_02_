@@ -14,6 +14,7 @@
       - [2.2.1 - Diagrama de Comunicação](/Modelagem/2.2.ModelagemDinamica.md?id=_221-diagrama-de-comunicação)
       - [2.2.2 - Diagrama de Estados](/Modelagem/2.2.ModelagemDinamica.md?id=_222-diagrama-de-estados)
       - [2.2.3 Diagrama de sequência](/Modelagem/2.2.ModelagemDinamica.md?id=_223-diagrama-de-sequência)
+      - [2.2.4. Diagrama de Atividades](/Modelagem/2.2.1.DiagramaAtividades.md)
 
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.2 - Diagrama de Pacotes](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md?id=_232-diagrama-de-pacotes)
