@@ -1,5 +1,3 @@
-# 2.3. Módulo Notação UML – Modelagem Organizacional OU Casos de Uso
-
 # 2.3.2 - Diagrama de Pacotes 
 
 ## Introdução 
@@ -65,10 +63,6 @@ Foi elaborado um diagrama de pacotes do Front-End do UnBrechó de acordo com as 
 
  > SERRANO, Milene. Arquitetura e Desenho de Software: AULA - MODELAGEM UML ESTÁTICA. Disponível em: <https://aprender3.unb.br/pluginfile.php/2928947/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Est%C3%A1tica%20-%20Profa.%20Milene.pdf>. Acesso em: 23 out. de 2024.
 
- >UML: Casos de Uso Projeto de Sistemas de Software. [s.l: s.n.]. Disponível em: <https://moodle.unesp.br/pluginfile.php/25934/mod_resource/content/1/diagrama_casos_uso.pdf>.
-
-‌
-
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Resultado da Revisão |
@@ -77,5 +71,3 @@ Foi elaborado um diagrama de pacotes do Front-End do UnBrechó de acordo com as 
 | `1.1` | 27/11/2024 | Atualização da Metodologia | [Eduardo Belarmino](https://github.com/eduard0803) | [Ana Hoffmann](https://github.com/AnHoff) | Revisão geral |
 | `1.2` | 27/11/2024 | Adição do Diagrama de Pacotes 2 | [Eduardo Belarmino](https://github.com/eduard0803) | [Ana Hoffmann](https://github.com/AnHoff) | Revisão geral |
 | `1.3` | 27/11/2024 | Evolução do Diagrama de Pacotes 2 | [Marcelo Magalhães](https://github.com/marrcelo) | [Ana Hoffmann](https://github.com/AnHoff) | Correções no texto e padronização de legendas, aprovado para merge |
-| `1.4` | 28/11/2024 | Construção dos diagramas de Casos de Uso | [Valderson Junior](https://github.com/valdersonjr) e [Ana Hoffmann](https://github.com/AnHoff) | - | - |
-| `1.5` | 29/11/2024 | Adição de Diagrama de Caso de Uso | [Lucas Spinosa](https://github.com/valdersonjr), [Marco Tulio](https://github.com/MarcoTulioSoares) e [Luiz Pettengill](https://github.com/LuizPettengill) | - | - |

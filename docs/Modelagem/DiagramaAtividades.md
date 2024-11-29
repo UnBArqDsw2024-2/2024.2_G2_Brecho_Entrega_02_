@@ -1,4 +1,3 @@
-# 2.2. Módulo Notação UML – Modelagem Dinâmica
 
 # 2.2.4 Diagrama de Atividades
 
@@ -27,13 +26,7 @@ No Diagrama 2 abaixo é representado o fluxo completo de uma compra, começando 
 
 ## Referências Bibliográficas 
 
-> IBM Diagramas de Seqüência, 2024. Disponível em: [IBM Rational Software Modeler](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams). Acesso em: 26 nov. de 2024.
-
 > FAKHROUTDINOV, Kirill. Activity Diagrams. Disponível em: https://www.uml-diagrams.org/activity-diagrams.html. Acesso em: 24 out. de 2024.
-
-> Pressman, Roger S. Engenharia de Software: Uma Abordagem Profissional. 7. ed. São Paulo: McGraw-Hill, 2011.
-
-> SERRANO, Milene. Arquitetura e Desenho de Software: AULA - MODELAGEM UML ESTÁTICA. Disponível em: <https://aprender3.unb.br/pluginfile.php/2928947/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Modelagem%20UML%20Est%C3%A1tica%20-%20Profa.%20Milene.pdf>. Acesso em: 26 nov. de 2024.
 
 > VANZANDT, Paul. Activity Diagrams. Disponível em: https://ideascale.com/pt-br/blogue/diagrama-do-que-e-atividade/. Acesso em: 24 out. de 2024.
 
@@ -41,4 +34,4 @@ No Diagrama 2 abaixo é representado o fluxo completo de uma compra, começando 
 
 | Versão | Data       | Descrição              | Autor(es)                                                                                                                                          | Revisor(es)                                          | Resultado da Revisão                                         |
 | ------ | ---------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| `1.3`  | 27/11/2024 | Adição do artefato Diagrama de Atividades | [Marcelo Magalhães](https://github.com/marrcelo) | [Ana Hoffmann](https://github.com/AnHoff)        |   Aprovação de PR          |
+| `1.0`  | 27/11/2024 | Adição do artefato Diagrama de Atividades | [Marcelo Magalhães](https://github.com/marrcelo) | [Ana Hoffmann](https://github.com/AnHoff)        |   Aprovação de PR          |
