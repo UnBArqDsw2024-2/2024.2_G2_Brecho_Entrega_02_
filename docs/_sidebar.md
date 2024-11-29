@@ -17,6 +17,7 @@
       - [2.2.4. Diagrama de Atividades](/Modelagem/2.2.ModelagemDinamica.md?id=_224-diagrama-de-atividades)
 
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md?id=_23-módulo-notação-uml-modelagem-organizacional-ou-casos-de-uso)
+      - [2.3.1 - Diagrama de Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md?id=_231-diagrama-de-casos-de-uso)
       - [2.3.2 - Diagrama de Pacotes](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md?id=_232-diagrama-de-pacotes)
 
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
