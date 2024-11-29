@@ -21,3 +21,4 @@
 
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
+      - [2.5.1 Perfil de Usuário](/Modelagem/2.5.IniciativasExtras.md?id=251-perfil-de-usuario)
