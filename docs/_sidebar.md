@@ -1,6 +1,4 @@
 - [Home](/)
-- [Projetos](/Projetos/Projetos.md)
-
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](/Modelagem/2.1.ModelagemEstatica.md?id=_21-módulo-notação-uml-modelagem-estática)
@@ -20,6 +18,6 @@
 
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md?id=_24-participações-modelagem)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md?id=_25-iniciativas-extras-modelagem)
-      - [2.5.1 Perfil de Usuário](/Modelagem/2.5.IniciativasExtras.md?id=_251-perfil-de-usuário)
-      - [2.5.2. Personas](/Modelagem/2.5.IniciativasExtras.md?id=_252-personas)
-      - [2.5.3 Modelagem do Banco de Dados](/Modelagem/2.5.IniciativasExtras.md?id=_253-modelagem-do-banco-de-dados)
+      - [2.5.1 Perfil de Usuário](/Modelagem/PerfilUsuario.md)
+      - [2.5.2. Personas](/Modelagem/Personas.md)
+      - [2.5.3 Modelagem do Banco de Dados](/Modelagem/Modelagem.md)
