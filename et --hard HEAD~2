@@ -1,0 +1,265 @@
+[33mcommit 3099e0ce133c5997f64951eea0ac017bcbbf9ad4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: M4RINH0 <dmmartins.dm28@gmail.com>
+Date:   Fri Nov 29 13:48:41 2024 -0300
+
+    participacao Douglas
+
+[33mcommit 7b2f4363eb45331a55f9163cfe4ef37dc89eaef1[m
+Author: M4RINH0 <dmmartins.dm28@gmail.com>
+Date:   Fri Nov 29 13:47:32 2024 -0300
+
+    participacao Douglas
+
+[33mcommit e9dc942e62e920fc7674211584346425accb78af[m
+Author: Ana Hoffmann <87672491+AnHoff@users.noreply.github.com>
+Date:   Fri Nov 29 12:48:23 2024 -0300
+
+    Add. título figuras
+
+[33mcommit d81a583486a0f53cc52b183b65c0e30c7aa26c88[m
+Merge: c8226aa 08a609a
+Author: Eduardo <eduardo83204@gmail.com>
+Date:   Fri Nov 29 08:06:12 2024 -0300
+
+    Merge pull request #25 from UnBArqDsw2024-2/participacoes
+    
+    adicionando participacao
+
+[33mcommit c8226aada8c71874e87d9dd175dd4ddb2d701bd6[m
+Author: eduard0803 <eduardo83204@gmail.com>
+Date:   Fri Nov 29 08:04:53 2024 -0300
+
+    correção sidebar
+
+[33mcommit 53af500b60d7ef99bab9a2b197ba8de9d99cb360[m
+Merge: aa3f9dc 0c0ebbc
+Author: Valderson Pontes <65057466+valdersonjr@users.noreply.github.com>
+Date:   Fri Nov 29 03:24:45 2024 -0300
+
+    Merge pull request #24 from UnBArqDsw2024-2/docs/caso-de-uso
+    
+    Docs/caso de uso
+
+[33mcommit 0c0ebbcd370e36626fca82c947fd822c6d846745[m[33m ([m[1;31morigin/docs/caso-de-uso[m[33m)[m
+Author: Valderson <valdersonpontes@gmail.com>
+Date:   Fri Nov 29 03:20:53 2024 -0300
+
+    Adiciona diagramas de Casos de Uso
+
+[33mcommit 71c21b68e5ffd263041a20b87bdefdaeaf84a607[m
+Author: Valderson <valdersonpontes@gmail.com>
+Date:   Fri Nov 29 03:20:19 2024 -0300
+
+    Adiciona imagens dos Casos de Uso
+
+[33mcommit aa3f9dc3e7a509da0a93b093d087b8ed512aae31[m
+Author: Ana Hoffmann <87672491+AnHoff@users.noreply.github.com>
+Date:   Fri Nov 29 00:39:27 2024 -0300
+
+    Add imagem modelo DER
+
+[33mcommit f8c87b95f3edbbb0384c78a91e21a91c210004b6[m
+Author: Ana Hoffmann <87672491+AnHoff@users.noreply.github.com>
+Date:   Fri Nov 29 00:39:00 2024 -0300
+
+    Add modelagem BD
+
+[33mcommit b5ab951009e58f1ad5f618b0ebba50e4e3a67410[m
+Author: Marcelo <magalhaesmarcelo@outlook.com.br>
+Date:   Fri Nov 29 00:28:23 2024 -0300
+
+    Corrigindo sidebar (#23)
+    
+    * Corrigindo sidebar
+
+[33mcommit cabab88299ece51a0fe16804db70bdd4dde1e684[m
+Author: Marcelo <magalhaesmarcelo@outlook.com.br>
+Date:   Fri Nov 29 00:25:32 2024 -0300
+
+    Adição Iniciativas Extras - Personas (#21)
+    
+    * Adição Iniciativas Extras - Personas
+    
+    * Atualizando documentação
+
+[33mcommit 20a7beacefef3a6f82bd3b8653c99a692baf1113[m
+Author: Marcelo <magalhaesmarcelo@outlook.com.br>
+Date:   Fri Nov 29 00:20:30 2024 -0300
+
+    Corrigindo tabela 1 Perfil de Usuário (#22)
+    
+    * Adiciona perfil de usuário
+    
+    * Corrigindo tabela 1 Perfil de Usuário
+    
+    ---------
+    
+    Co-authored-by: AnHoff <ana.luiza.hoff@gmail.com>
+
+[33mcommit a69353fa71a8c4d33bdc5fde8a17a2eb56a15f2e[m
+Author: Ana Hoffmann <87672491+AnHoff@users.noreply.github.com>
+Date:   Thu Nov 28 23:47:41 2024 -0300
+
+    Adiciona perfil de usuário (#20)
+
+[33mcommit dd9427c05f25f38dc039313545994498bf48f138[m
+Author: eduard0803 <eduardo83204@gmail.com>
+Date:   Thu Nov 28 22:34:33 2024 -0300
+
+    fix: sidebar link
+    
+    fix: sidebar link
+
+[33mcommit cd7ea56932b140a9c65ff976c8b5007d218dd7b0[m
+Author: AnHoff <ana.luiza.hoff@gmail.com>
+Date:   Thu Nov 28 22:26:22 2024 -0300
+
+    Hotfix formatação documento
+
+[33mcommit 078da7d491393ed243b8db6aea91eb4a341aa45d[m
+Author: Eduardo <eduardo83204@gmail.com>
+Date:   Thu Nov 28 22:22:12 2024 -0300
+
+    [DOCS]: Diagrama de Componentes (#19)
+    
+    * [#2] Adição do diagrama de componentes
+    
+    * [DOCS]: Adição de índices na sidebar
+    
+    * [#2] Diagrama de componentes
+    
+    Co-authored-by: Marcelo Magalhães <magalhaesmarcelo@outlook.com.br>
+    
+    ---------
+    
+    Co-authored-by: Marcelo Magalhães <magalhaesmarcelo@outlook.com.br>
+
+[33mcommit 39c69a710bb16f7a95b2c645247ed999763ae4f8[m
+Author: Marcelo <magalhaesmarcelo@outlook.com.br>
+Date:   Thu Nov 28 22:14:08 2024 -0300
+
+    [DOCS]: Criação do documento e adição do artefato Diagrama de Atividades (#13)
+    
+    * Criação do documento e adição do artefato Diagrama de Atividades
+    
+    * Editando legenda do diagrama de atividades 1
+    
+    * Removendo erro digitação
+    
+    * Adicionando referencias
+
+[33mcommit 08a609ad1ff462bfcf2f100ea1f879c8efc5a8cd[m[33m ([m[1;31morigin/participacoes[m[33m)[m
+Author: eduard0803 <eduardo83204@gmail.com>
+Date:   Thu Nov 28 21:22:34 2024 -0300
+
+    adicionando participacao
+
+[33mcommit e9178b450773f9c23620fc8c082b937bf84d1334[m
+Author: Ana Hoffmann <87672491+AnHoff@users.noreply.github.com>
+Date:   Thu Nov 28 20:03:30 2024 -0300
+
+    [DOCS]: Criação do diagrama de sequência (#17)
+    
+    * adicionando diagrama de sequencia
+    
+    * [#4} Adição de metodologia ao diagrama de sequência
+    
+    * Hotfix metodologia
+    
+    * [#4] Finaliza documento do diagrama de sequência
+    
+    ---------
+    
+    Co-authored-by: eduard0803 <eduardo83204@gmail.com>
+
+[33mcommit c856b879a60d4def7bf121706d26d1e71aa7c23a[m
+Author: Henrique Torres <102327244+henriqtorresl@users.noreply.github.com>
+Date:   Thu Nov 28 19:56:33 2024 -0300
+
+    feat: adicionando a parte do diagrama de estado do carrinho (#15)
+    
+    * feat: adicionando a parte do diagrama de estado do carrinho
+    
+    Co-authored-by: Eric Camargo <eric.camargo.silva@gmail.com> Co-authored-by: Douglas Marinho <dmmartins.dm28@gmail.com>
+    
+    * Hotfix: numeração de figura
+    
+    * Hotfix: numeração de tópico
+    
+    ---------
+    
+    Co-authored-by: Eric Camargo <eric.camargo.silva@gmail.com> Co-authored-by: Douglas Marinho <dmmartins.dm28@gmail.com>
+
+[33mcommit 55bae4229ec070d4cbf9e408e1bd1effeb8bc947[m
+Author: Eduardo <eduardo83204@gmail.com>
+Date:   Thu Nov 28 19:52:02 2024 -0300
+
+    [DOCS]: Diagrama de Pacotes (#14)
+    
+    * [DOCS] subindo branch Diagrama de Pacotes
+    
+    * adicionando revisão diagrama de pacotes
+    
+    * removendo texto do template
+    
+    * [#3] adicionando diagrama de pacotes back
+    
+    * [#3] adicionando diagrama de pacotes back
+    
+    * [#3] atualizando diagrama de pacotes back
+    
+    * [#3] atualizando diagrama de pacotes back
+    
+    * [DOCS]: Adicionando v2 do diagrama de pacotes do backend (#3)
+    
+    * [DOCS]: Corrigindo detalhe v2 do diagrama de pacotes do backend (#3)
+    
+    * Ajustes para merge
+    
+    ---------
+    
+    Co-authored-by: Guilherme Santos <guiguievangelista18@gmail.com>
+    Co-authored-by: Marcelo Magalhães <magalhaesmarcelo@outlook.com.br>
+
+[33mcommit d7284928e3f0d4b73c8e3181db185dfe07709951[m
+Author: Ana Hoffmann <87672491+AnHoff@users.noreply.github.com>
+Date:   Thu Nov 28 19:30:15 2024 -0300
+
+    [DOCS]: Adiciona configuração inicial do README.md
+
+[33mcommit a73685e92e40642bbb593f8b9613533db6a23313[m
+Merge: 346a10d e9ebde6
+Author: Douglas Marinho <95291227+M4RINH0@users.noreply.github.com>
+Date:   Thu Nov 28 11:20:04 2024 -0300
+
+    Merge pull request #16 from UnBArqDsw2024-2/feat/diagrama-implantacao
+    
+    feat: adicionando a parte do diagrama de implantação
+
+[33mcommit e9ebde67a4f50828fe573b43008a3938a6eb5bb4[m[33m ([m[1;31morigin/feat/diagrama-implantacao[m[33m)[m
+Author: Douglas Marinho <95291227+M4RINH0@users.noreply.github.com>
+Date:   Thu Nov 28 14:19:26 2024 +0000
+
+    padrão
+
+[33mcommit 221d203ccdacbe257fb424821e901e002625e95e[m
+Author: Douglas Marinho <95291227+M4RINH0@users.noreply.github.com>
+Date:   Thu Nov 28 14:16:37 2024 +0000
+
+    paddronização de imgs
+
+[33mcommit aff927e5f52ed035abdf0d5769e024a41db127cf[m
+Author: Douglas Marinho <95291227+M4RINH0@users.noreply.github.com>
+Date:   Thu Nov 28 14:16:01 2024 +0000
+
+    adição do
+
+[33mcommit af3ccdc360f48538ddd4768062c936a5c40b5eda[m
+Author: Henrique Torres <henriquetlandin@gmail.com>
+Date:   Wed Nov 27 21:53:05 2024 -0300
+
+    feat: adicionando a parte do diagrama de implantação
+    
+    Co-authored-by: Eric Camargo <eric.camargo.silva@gmail.com>
+
+[33mcomm
