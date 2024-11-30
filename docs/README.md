@@ -30,24 +30,16 @@ Os diagramas criados se referem à modelagem do UnBrechó, uma aplicação web q
 - Compradores deixem avaliações sobre produtos adquiridos e seus vendedores; 
 - Usuários comprem os produtos desejados e acompanhem o processo de entrega.
 
-<!--
-Contextualize, usando referências, links, e outros materiais como fontes.
--->
-
 ## Screenshots da Segunda Entrega
 
-<!-- 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
--->
+![Diagrama de Classe](./Imagens/diagrama_classe.png)
+
+![Diagrama de Caso de Uso](./Imagens/DiagramaDeCasosDeUsoUsuario.png)
+
+![Diagrama de Estado](./Imagens/diagrama_estado_carrinho.png)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
 (X) NÃO
-
-## Informações Complementares 
-
-<!--
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
--->
