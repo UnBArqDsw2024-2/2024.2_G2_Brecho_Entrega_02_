@@ -6,7 +6,7 @@ O presente documento se refere à modelagem inicial do banco de dados, sendo bas
 
 ## Metodologia
 
-Um bom projeto de banco de dados começa pela definição do modelo entidade-relacionamento (ME-R), seguido pelo diagrama entidade-relacionamento (DE-R) e, por fim, há a elaboração do diagrama lógico de dados (DLD). Confira a seguir o que foi elaborado.
+Um bom projeto de banco de dados começa pela definição do modelo entidade-relacionamento (ME-R), seguido pelo diagrama entidade-relacionamento (DE-R). Confira a seguir o que foi elaborado.
 
 ### Modelo Entidade-Relacionamento (ME-R)
 
