@@ -124,4 +124,6 @@ O diagrama entidade-relacionamento (DER) é uma representação gráfica do mode
 
 # Histórico de Versões
 
+| Versão | Data       | Descrição              | Autor(es)                                                                                                                                          | Revisor(es)                                          | Resultado da Revisão                                         |
+| ------ | ---------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | `1.0`  | 28/11/2024 | Adição do DER | [Ana Hoffmann](https://github.com/) | [Eduardo Belarmino](https://github.com/eduard0803) | Aprovação de PR |

@@ -25,4 +25,6 @@ O diagrama de componentes elaborado pode ser conferido no Diagrama 1 abaixo. Dev
 > Visual Paradigm. What is Component Diagram?. Disponível em: <https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-component-diagram/>. Acesso em: 28 nov. de 2024.
 
 # Histórico de Versões
+| Versão | Data       | Descrição              | Autor(es)                                                                                                                                          | Revisor(es)                                          | Resultado da Revisão                                         |
+| ------ | ---------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | `1.0` | 28/11/2024 | Adicionando Diagrama de Componentes | [Eduardo Belarmino](https://github.com/eduard0803) e [Marcelo Magalhães](https://github.com/marrcelo) | [Ana Hoffmann](https://github.com/AnHoff) | Aprovado para merge |
